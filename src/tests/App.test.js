@@ -15,15 +15,4 @@ describe('Requisito 1', () => {
     expect(about).toBeInTheDocument();
     expect(favorite).toBeInTheDocument();
   });
-
-  //   test('teste o redirecionamento para a pagina inicial', () => {
-  //     const { history } = renderWithRouter(<App />);
-
-  //     const home = screen.getByRole('link', { name: 'Home' });
-  //     expect(home).toBeInTheDocument();
-  //     userEvent.click(home);
-
-//     const { pathname } = history.location;
-//     expect(pathname).toBe('/');
-//   });
 });
