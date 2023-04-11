@@ -12,7 +12,7 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 - quais arquivos/pastas foram desenvolvidos pela Trybe.
 -->
 <details>
-  <summary><strong>👨‍💻 O que deverá ser desenvolvido</strong></summary><br />
+  <summary><strong>👨‍💻 O que foi desenvolvido</strong></summary><br />
 
   - Nesse projeto eu escrevi testes para uma aplicação React que já está criada e configurada, utilizando [`Jest`](https://jestjs.io/) e a biblioteca [`React Testing Library`](https://testing-library.com/).
  
